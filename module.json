@@ -1,6 +1,6 @@
 {
-  "id": "module",
-  "title": "New Module",
+  "id": "Grid Scaler",
+  "title": "Grid Scaler",
   "description": "",
   "version": "#{VERSION}#",
   "library": "false",
@@ -26,13 +26,6 @@
   ],
   "styles": [
     "./styles/gridStyle.css"
-  ],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json"
-    }
   ],
   "url": "#{URL}#",
   "manifest": "#{MANIFEST}#",
