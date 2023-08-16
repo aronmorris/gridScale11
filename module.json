@@ -22,13 +22,10 @@
     "requires": []
   },
   "esmodules": [
-    "scripts/module.js"
-  ],
-  "scripts": [
-    "scripts/lib/lib.js"
+    "./scripts/gridScale.js"
   ],
   "styles": [
-    "styles/module.css"
+    "./styles/gridStyle.css"
   ],
   "languages": [
     {
